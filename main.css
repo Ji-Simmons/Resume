@@ -23,7 +23,7 @@ main {
 
 header {
     border-bottom: 10px solid red;
-    height: 10px;
+    height: 10vh;
     text-align: center;
 }
 
