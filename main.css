@@ -1,0 +1,39 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+    padding: 0;
+    color: #000;
+    background: #fff;
+    display: flex;
+    flex-flow: column;
+}
+
+main {
+    padding: 1em;
+    flex-grow: 1;
+    height: 80vh;
+    overflow: auto;
+    box-sizing: border-box;
+    
+}
+
+header {
+    border-bottom: 10px solid red;
+    height: 10vh;
+    text-align: center;
+}
+
+header>h1 {
+    color: black;
+}
+
+footer {
+    border-top: 1px solid #000;
+    height: 10vh;
+
+}
+
