@@ -14,7 +14,7 @@ h4 {
 
 main {
     padding: 1em;
-    background: blue;
+    background: #ccffff;
     flex-grow: 1;
     height: 80vh;
     overflow: auto;
