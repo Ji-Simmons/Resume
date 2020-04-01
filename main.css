@@ -18,7 +18,7 @@ h3 {
 main {
     padding: 1em;
     flex-grow: 1;
-    height: 75vh;
+    height: 78vh;
     overflow: auto;
     box-sizing: border-box;
     background: #ccffff;
