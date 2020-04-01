@@ -11,14 +11,17 @@ h4 {
     display: flex;
     flex-flow: column;
 }
-
+h2,
+h3 {
+    background: #ccffff;
+}
 main {
     padding: 1em;
-    background: #ccffff;
     flex-grow: 1;
     height: 80vh;
     overflow: auto;
     box-sizing: border-box;
+    background: #ccffff;
     
 }
 
